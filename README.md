@@ -1,16 +1,24 @@
-# tracking_map
+# tracking
 
-A new Flutter project.
+A new Flutter project .
 
-## Getting Started
+<img src="images/screenshot1.png" width="400" height="300" /> <img src="images/screenshot2.png" width="400" height="300" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## How it works
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* This project is example for Google map with realtime tracking.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+add dependencies :
+
+google_map_flutter :  get api key - enable maps sdk for android and ios - enable directions api
+
+flutter_polyline_points : (getRouteBetweenCoordinates)method to get points and add them to map to draw the route between source and destination 
+
+location : (getLocation)method return location- (onLocationChanged.listen) callback  get continuous callbacks when position is changing and update marker on map
+
+dont forget to add necessary permissions.
+ 
+## To see other projects developed by me :
+
+- [Portfolio](https://nadeemze.github.io/Portfolio/)
