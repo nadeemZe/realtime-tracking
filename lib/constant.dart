@@ -1,3 +1,3 @@
 
 
-const String googleApiKey='AIzaSyBPAYnnLifyraLx5R1-1zCGVnZ5NF8A718';
+const String googleApiKey='api key';
