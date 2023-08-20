@@ -2,7 +2,7 @@
 
 A new Flutter project .
 
-<img src="images/screenshot1.png" width="400" height="300" /> <img src="images/screenshot2.png" width="400" height="300" />
+<img src="images/screenshot1.png" width="300" height="300" /> <img src="images/screenshot2.png" width="400" height="300" />
 
 
 ## How it works
