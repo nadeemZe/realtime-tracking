@@ -7,7 +7,7 @@ A new Flutter project .
 
 ## How it works
 
-* This project is example for Google map with realtime tracking.
+* This project is an example for Google map with realtime tracking.
 
 add dependencies :
 
